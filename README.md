@@ -17,14 +17,14 @@ Tools & Technologies Used
   
 - Setup Instructions
 1. Clone the repository:
+2. https://github.com/Kiran3166/iot-device-penetration-testing-lab.git
    
-
-2. Navigate to the project folder:
+3. Navigate to the project folder:
    cd iot-device-penetration-testing-lab
 
-3. Install required tools (Kali Linux recommended)
+4. Install required tools (Kali Linux recommended)
 
-4. Follow the lab guide inside /docs
+5. Follow the lab guide inside /docs
 
 Features
 - IoT vulnerability scanning
