@@ -17,7 +17,7 @@ Tools & Technologies Used
   
 - Setup Instructions
 1. Clone the repository:
-   git clone https://github.com/your-username/iot-device-penetration-testing-lab.git
+   
 
 2. Navigate to the project folder:
    cd iot-device-penetration-testing-lab
